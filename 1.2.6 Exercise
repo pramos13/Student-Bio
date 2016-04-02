@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>1.2.6 Exercise</title>
+	</head>
+		<body>
+
+			<!-- Header Section -->
+			<header>
+				<!-- Header -->
+				<h1>Student Bio</h1>
+
+			</header>
+
+			<div>
+
+				<!-- Section -->
+				<section>
+				<!-- Header -->
+				<h2>Phillip Ramos</h2>
+
+				<!-- Image with link -->
+				<img src="http://placehold.it/200x200"alt="Phillip Ramos"
+
+				<!-- Paragraph with embedded link -->
+				<p>Hello my name is Phillip Ramos,I'm from Orlando, Florida. I love to spend time with my family and friends, and game up in spare time. 
+
+</section>
+
+
+			<!-- Section -->
+			<section>
+
+				<!-- Smaller header -->
+				<h2>Orlando, FL 32825</h2>
+
+				<!-- Unordered list -->
+				<ul>
+					<li><strong>Email:</strong> <a href="#">someplace@gmail.com</a></li>
+					<li><strong>GitHub:</strong> <a href="#">SampleName</a></li>
+					<li><storng>Portfolio:</strong> <a href="#">coming soon</a><li>
+				</ul>
+
+			</section>
+
+			</div>
+
+</body>
+
+</html>
